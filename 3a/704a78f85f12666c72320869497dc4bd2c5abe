@@ -1,0 +1,47 @@
+docs/source/research.rst
+  s_ef7452d333de59::t_f285c762967b66 85-87
+docs/source/changelog.rst
+  s_ef7452d333de59::t_b667af4d6741c7 8-26
+docs/source/randomization.rst
+  s_ef7452d333de59::t_cc70c47b71519c 923-925,933-940
+pyproject.toml
+  s_ef7452d333de59::t_a0fbc898e52984 49,52
+src/mjlab/tasks/manipulation/rl/runner.py
+  s_ef7452d333de59::t_aebaf3dff1b6cf 2,20-21,24
+src/mjlab/tasks/tracking/rl/runner.py
+  s_ef7452d333de59::t_1e0056dd866a6f 7,98-99,111
+src/mjlab/tasks/velocity/rl/runner.py
+  s_ef7452d333de59::t_2376e6585ecb8f 2,20-21,24
+src/mjlab/terrains/terrain_generator.py
+  s_ef7452d333de59::t_314b389a39501d 23-24
+src/mjlab/terrains/utils.py
+  s_ef7452d333de59::t_10f5c45ed16762 70-71,73,75
+src/mjlab/utils/lab_api/math.py
+  s_ef7452d333de59::t_f9c2583f9cf922 13-14,1420-1422,1424-1425,1430-1431,1433-1437
+tests/test_domain_randomization.py
+  s_ef7452d333de59::t_4e7d5bf387530d 217,219-220,234-236,238-279
+tests/test_flat_patch_sampling.py
+  s_ef7452d333de59::t_7c0e7068d16015 77-89
+tests/test_lab_api_math.py
+  s_ef7452d333de59::t_d8b839705ccc7a 7,27-80
+tests/test_runner.py
+  s_ef7452d333de59::t_52d3b182b4ad45 15-16,528-549,557-558,560,567,591,598,608-609,613,647
+uv.lock
+  s_ef7452d333de59::t_dc3af6bbe3459b 1734,1748,3224,3239,3241
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3a704a78f85f12666c72320869497dc4bd2c5abe",
+  "prompts": {},
+  "sessions": {
+    "s_ef7452d333de59": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0230d-de1f-7711-9332-d9e46b69924b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "uniquemelody <200471066+uniquemelody@users.noreply.github.com>"
+    }
+  }
+}
